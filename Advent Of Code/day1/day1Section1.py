@@ -25,6 +25,7 @@ for item in arr:
     #only check AFTER rotation finishes
     if number_start == 0:
         value_total = value_total + 1
+        
 
 
 print(value_total)
