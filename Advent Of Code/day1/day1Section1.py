@@ -27,5 +27,4 @@ for item in arr:
         value_total = value_total + 1
         
 
-
 print(value_total)
