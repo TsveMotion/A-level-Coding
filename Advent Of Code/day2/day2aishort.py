@@ -11,3 +11,4 @@ for r in data:
                     total += n
 
 print(total)
+
